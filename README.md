@@ -41,8 +41,8 @@ Data mentah dan data hasil olahan tidak disertakan di repositori karena ukuranny
 
 ```
 ├── data/
-│   ├── raw/          ← citra Sentinel-2 dan shapefile (tidak di-push)
-│   └── processed/    ← hasil crop, indeks, dan klasifikasi (tidak di-push)
+│   ├── raw/          ← citra Sentinel-2 dan shapefile 
+│   └── processed/    ← hasil crop, indeks, dan klasifikasi 
 ├── R/
 │   ├── 01_crop.R
 │   ├── 02_indices.R
