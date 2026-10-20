@@ -35,7 +35,7 @@ Wilayah studi adalah Kabupaten Pidie Jaya (8 kecamatan), Provinsi Aceh. Kabupate
 
 Sistem koordinat: WGS 84 / UTM zona 46N. Band yang dipakai: B02, B03, B04, B08 (10 m) serta B05, B11, dan SCL (20 m, di-resample ke 10 m).
 
-Data mentah dan data hasil olahan tidak disertakan di repositori karena ukurannya besar. Letakkan folder `.SAFE` di `data/raw/sentinel2/` dan shapefile batas di `data/raw/batas/`.
+Data mentah dan data hasil olahan tidak disertakan di repositori karena ukurannya besar. Data folder `.SAFE` di `data/raw/sentinel2/` dan shapefile batas di `data/raw/batas/`.
 
 ## Struktur Folder
 
